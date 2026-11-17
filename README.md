@@ -4,10 +4,8 @@ API REST desarrollada con Spring Boot y Spring Data JPA conectada a PostgreSQL y
 
 ## Enlaces de Producción (Render)
 
-- **URL Base de la API:** `https://TU-APP.onrender.com/api/books`
-- **Documentación Swagger UI:** `https://TU-APP.onrender.com/swagger-ui/index.html`
-
-*(Nota: Reemplazar con el enlace asignado por Render al finalizar el despliegue).*
+- **URL Base de la API:** `https://aux-prac-4-joel-javier.onrender.com/api/books`
+- **Documentación Swagger UI:** `https://aux-prac-4-joel-javier.onrender.com/swagger-ui/index.html`
 
 ## Variables de Entorno Requeridas
 
